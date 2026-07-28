@@ -35,7 +35,7 @@ def analizar_texto(texto):
 if __name__ == "__main__":
     
     texto_repetitivo = "AAAAAAAAAABBBBBBBBBB"
-    texto_variado = "MURCIELAGO VOLADOR"
+    texto_variado = "LA INSCRIPCION DE MATERIAS DA ASCO"
     
     print("=== ANÁLISIS DE ENTROPÍA DE SHANNON ===")
     
